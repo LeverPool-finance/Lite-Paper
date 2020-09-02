@@ -32,7 +32,11 @@ Defi世界当前只能使用链上数字货币和资产进行挖矿和交易，�
 ### 三、核心功能实现
 在项目的第一阶段，依托 Ethererum 成熟智能合约技术，YFarm 用户所有资金来往与行为均在 Ethereum 链上由智能合约完成。鉴于 Ethererum 日益升高的交易手续费给用户带来了较大的负担，项目第二阶段会额外增加无需交易手续费用的公链支持，例如采用 DPos 机制的波场Tron。根据逻辑流程，YFarm 系统由 Pool，Vault，Controller，Strategy，Farm 五个模块构成，它们的交互关系如图1所示。
 
-图片
+<div align="center">
+  <a href="https://www.yFarm.finance"> <img width="850px" height="auto" 
+  src="yFarm-logic.png"></a>
+   <p> 图1. yFarm 各个模块逻辑示意图</p>
+</div>
 
 
 图 1 中箭头的方向代表用户资金进行挖矿的流动方向，而用户获得收益的资金流动方向与图中箭头相反。下面我们依次介绍每个模块的逻辑功能，值得注意的是，所有的模块均是 Ethereum 上的智能合约，资金的流动是合约之间的函数调用。
