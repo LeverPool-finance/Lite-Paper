@@ -34,7 +34,7 @@ Defi世界当前只能使用链上数字货币和资产进行挖矿和交易，�
 
 <div align="center">
   <a href="https://www.yFarming.finance"> <img width="850px" height="auto" 
-  src="yFarm-logic.png"></a>
+  src="yFarming-logic.png"></a>
    <p> 图1. yFarming 各个模块逻辑示意图</p>
 </div>
 
