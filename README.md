@@ -19,7 +19,7 @@ LeverPool Protocol 是一个旨在通过配资杠杆形式引入增量用户和�
 
 <div align="center">
   <a href="https://www.leverpool.finance"> <img width="850px" height="auto" 
-  src="yFarming-logic.png"></a>
+  src="leverpool-logic.png"></a>
    <p> 图1. LevelPool 各个模块逻辑示意图</p>
 </div>
 
